@@ -105,6 +105,9 @@ Drew the insights below and saved the workbook as `IPL_Match_data.twbx` so it op
 Tableau data joins · Calculated fields · Interactive filters · Dashboard design · Sports analytics · Data storytelling
 
 ---
+## Architecture Diagram
+![IPL Analysis Architecture](diagram%20(2).png)
+
 
 **Author:** Astha Kumari Jha
 **GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)
